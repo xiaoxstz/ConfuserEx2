@@ -43,8 +43,9 @@ The format of project file can be found in docs\ProjectFormat.md
 You can also run the GUI application, `ConfuserEx.exe`
 
 # Bug Report
-See the [Issues Report](https://github.com/XenocodeRCE/neo-ConfuserEx/issues) section of this repository.
-
+This project is maintained on Github and Gitee
+* [Issues in Github](https://github.com/xiaoxstz/ConfuserEx2/issues)
+* [Issues in Gitee](https://github.com/xiaoxstz/ConfuserEx2/issues): If you want to get quicker answer, you can create an reward in the issue tab.
 
 # License
 See LICENSE file for details.
