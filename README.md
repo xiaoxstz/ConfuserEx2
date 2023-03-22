@@ -6,7 +6,7 @@ ConfuserEx2
 * 2014.2-2016.7:[ConfuserEx](https://github.com/yck1509/ConfuserEx). This repository has been archived in Jan 27,2019
 * 2018.5-now:[Neo ConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx). This project turns not active since 2019.12
 * 2022.3 - now :ConfuserEx2
-    * This repository plans to save this projectsince 2022.3.22.
+    * This repository plans to save this project since 2022.3.22.
 
 <p align="center">
   
