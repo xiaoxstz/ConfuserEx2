@@ -80,7 +80,10 @@ namespace Confuser.Runtime {
 				ver5 = Environment.Version.Revision > 17020;
 			}
 			else
-				moduleHnd = *(IntPtr*)(&hnd);
+			{
+                GCHandle handle = GCHandle.Alloc(hnd, GCHandleType.Pinned);
+                moduleHnd = handle.AddrOfPinnedObject();
+            }
 
 			Hook();
 		}
