@@ -19,7 +19,10 @@ ConfuserEx2
 
 # Documentation
 
-Please have a look at our [WIKI](https://github.com/XenocodeRCE/neo-ConfuserEx/wiki) page where each of our protection got a clear introduction and explanation about its functionnality.
+Please have a look at our WIKI
+* [wiki on Gitee](https://gitee.com/qqblack/ConfuserEx2/wikis)
+* [wiki on Github](https://github.com/xiaoxstz/ConfuserEx2/wiki)
+
 
 # Obfuscation Features
 * Supports .NET Framework 2.0/3.0/3.5/4.0/4.5 and up to 4.7.2
