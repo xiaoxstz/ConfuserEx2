@@ -45,7 +45,7 @@ You can also run the GUI application, `ConfuserEx.exe`
 # Bug Report
 This project is maintained on Github and Gitee
 * [Issues in Github](https://github.com/xiaoxstz/ConfuserEx2/issues)
-* [Issues in Gitee](https://github.com/xiaoxstz/ConfuserEx2/issues): If you want to get quicker answer, you can create an reward in the issue tab.
+* [Issues in Gitee](https://gitee.com/qqblack/ConfuserEx2/issues): If you want to get quicker answer, you can create an reward in the issue tab.
 
 # License
 See LICENSE file for details.
