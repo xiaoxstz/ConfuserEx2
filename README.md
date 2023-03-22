@@ -1,8 +1,12 @@
-Neo ConfuserEx
+ConfuserEx2
 --------
-
-
-Neo ConfuserEx is the successor of [ConfuserEx](https://yck1509.github.io/ConfuserEx/) project, an open source C# obfuscator which uses its own fork of [dnlib](https://github.com/0xd4d/dnlib/) for assembly manipulation. Neo ConfuserEx handles most of the dotnet app, supports all elligible .NET Frameworks and provide decent obfuscation on your file. If you have any questions or issues please let me know [there](https://github.com/XenocodeRCE/neo-ConfuserEx/issues). You can download latest official release [here](https://github.com/XenocodeRCE/neo-ConfuserEx/releases) and latest build [here](https://ci.appveyor.com/project/XenocodeRCE/neo-confuserex/build/artifacts).
+# Introduction
+`ConfuserEx2` is a .NET program protector.
+# History
+* 2014.2-2016.7:[ConfuserEx](https://github.com/yck1509/ConfuserEx). This repository has been archived in Jan 27,2019
+* 2018.5-:[Neo ConfuserEx](https://github.com/XenocodeRCE/neo-ConfuserEx). This project has not died yet. But not active since 2019.12
+* 2022.3 - :ConfuserEx2
+    * This repository plans to save this projectsince 2022.3.22.
 
 <p align="center">
   
@@ -10,13 +14,11 @@ Neo ConfuserEx is the successor of [ConfuserEx](https://yck1509.github.io/Confus
 
 </p>
 
-Documentation
---------
+# Documentation
 
 Please have a look at our [WIKI](https://github.com/XenocodeRCE/neo-ConfuserEx/wiki) page where each of our protection got a clear introduction and explanation about its functionnality.
 
-Obfuscation Features
---------
+# Obfuscation Features
 * Supports .NET Framework 2.0/3.0/3.5/4.0/4.5 and up to 4.7.2
 * Symbol renaming (Support WPF/BAML)
 * Protection against **debuggers/profilers**
@@ -32,8 +34,7 @@ Obfuscation Features
 * Extensible plugin API
 
 
-Usage
------
+# Usage
 `Confuser.CLI <path to project file>`
 
 The project file is a ConfuserEx Project (*.crproj).
@@ -41,17 +42,14 @@ The format of project file can be found in docs\ProjectFormat.md
 
 You can also run the GUI application, `ConfuserEx.exe`
 
-Bug Report
-----------
+# Bug Report
 See the [Issues Report](https://github.com/XenocodeRCE/neo-ConfuserEx/issues) section of this repository.
 
 
-License
--------
+# License
 See LICENSE file for details.
 
-Credits
--------
+# Credits
 **[yck1509](https://github.com/yck1509)** the one and only, original coder of [ConfuserEx](https://yck1509.github.io/ConfuserEx/)
 
 **[0xd4d](https://github.com/0xd4d)** for his awesome work and extensive knowledge!  
